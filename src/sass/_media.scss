@@ -1,0 +1,24 @@
+@media screen and (max-wdith: 767px) {
+    .promo {
+        padding: 21px 25px 93px 25px;
+
+        &__header {
+            font-size: 36px;
+            line-height: 36px;
+        }
+
+        &__subheader {
+            font-size: 20px;
+            line-height: 20px;
+        }
+    }
+    
+    .advantages {
+        padding: 71px 25px 78px 25px;
+        min-height: 470px;
+
+        &__card {
+            width: 200px;
+        }
+    }
+}
